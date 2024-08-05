@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: Flight-Fare-Predictor
+Version: 0.1.0
+Summary: This project is to create an interface for the user to know their approximate flight ticket price, in addition to this, in need of getting the real time project experience we are importing the gathered data into our own database and then start the project from the scratch. 
+Author: Ganesh
+Author-email: swami.ganesh@proton.me
+License: GNU
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: openpyxl
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: lightgbm
+Requires-Dist: tqdm
+Requires-Dist: optuna
+Requires-Dist: xgboost
+Requires-Dist: joblib
+Requires-Dist: streamlit
