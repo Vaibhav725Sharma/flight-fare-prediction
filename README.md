@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <img align="center" width="200" src="https://internship.ineuron.ai/_next/image?url=%2Fimages%2Fineuron-logo.png&w=1920&q=75" alt="iNeuron Logo"/>
 
 <table>
